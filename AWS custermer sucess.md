@@ -18,6 +18,10 @@ Founded in 2015, Monzo Bank is the UK’s largest digital bank. Its seven-and-a-
 
 > “I got the feeling that we were doing something really innovative with the technology,”- **Dino Fizzotti** (_senior software engineer at Monzo_) 
 
+
+
 > "By using AWS Nitro Enclaves, we have achieved a level of security that companies of our size generally don’t have.” -
 **Craig Ferguson** (_Software Engineer, Monzo Bank_)
 ![craog ferguson](https://media.licdn.com/dms/image/C5603AQG15RRAyDzbdA/profile-displayphoto-shrink_200_200/0/1634046014045?e=2147483647&v=beta&t=Ajr6Ts4TLo-b5Q_WA7X1Q_fr8BjQoAIx4dHQzc_opo0)
+
+Presented by Ejman, Ether, Dominik, Matthew :)
